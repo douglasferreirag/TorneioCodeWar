@@ -12,7 +12,7 @@ Neste nível temos duas alternativas para o desenvolvimento do seu algoritmo. No
 
 No segundo mapa você poderá fazer um mini torneio entre os seus melhores programas para este Mapa e avaliar qual a melhor estratégia. Assim poderá facilmente saber qual o seu programa mais preparado para a competição.
 
-ChatGPT Image 20 de set. de 2025, 17_26_38.png
+
 Jogue Agora
 REGRAS
 
