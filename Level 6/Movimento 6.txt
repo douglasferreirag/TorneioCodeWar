@@ -1,0 +1,15 @@
+// Inicia o movimento do drone com velocidade 1
+startMove 1
+
+// Define a rota GPS 1 com os pontos indicados
+setPathGPS 1=9,2,7,1,8,9
+
+// Tenta localizar o alvo e liga a chave 1 se encontrado
+LocateTarget k[1]
+
+// Se o alvo foi localizado, inicia a rota GPS 1
+startPathGPS 1,k[1]
+
+// Gira para o alvo e atira
+SpinToTarget
+FireAtTarget

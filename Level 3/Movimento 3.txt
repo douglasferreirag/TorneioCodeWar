@@ -1,0 +1,5 @@
+startMove 1
+setPathGPS 1=9,5,2,7,1,8,9
+
+startPathGPS 1,k[1]
+

@@ -1,0 +1,12 @@
+startMove 2
+SetPathGPS 1=1,5
+StartPathGPS 1,k[1]
+LocateTarget k[6]
+SetPathGPS 2=5,9,10
+StartPathGPS 2,k[2]
+LocateTarget k[7]
+SpinToTarget 30
+FireAtTarget
+SetPathGPS 3=10,16
+StartPathGPS 3,k[3]
+LocateTarget k[8]

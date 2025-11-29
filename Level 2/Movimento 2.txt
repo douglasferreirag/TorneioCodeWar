@@ -1,0 +1,5 @@
+startmove
+ObsDetect 0,K[3]
+if K[3]
+Spin -90
+eif
